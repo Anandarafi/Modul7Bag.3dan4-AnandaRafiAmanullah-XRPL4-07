@@ -48,6 +48,12 @@ updatedata
 updatematkul
 ![alttext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/updatematkul.PNG)
 
+datadosenbag4
+![alttext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/datadosen.bag4.PNG)
+
+dtabag4yang bener
+![alttext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/datadosen.bag4%20-%20Copy.PNG)
+
 
 
 
