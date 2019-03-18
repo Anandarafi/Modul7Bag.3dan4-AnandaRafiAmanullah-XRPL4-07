@@ -54,6 +54,9 @@ datadosenbag4
 dtabag4yang bener
 ![alttext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/datadosen.bag4%20-%20Copy.PNG)
 
+ubahdata
+![alttext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/newubahdata.PNG)
+
 
 
 
