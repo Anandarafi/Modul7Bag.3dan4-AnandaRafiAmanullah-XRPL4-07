@@ -1,9 +1,9 @@
 <?php
-
 include '../connect.php';
 
-$kode = $_GET['kode'];
-$query = "DELETE FROM matakuliah WHERE kode = '$kode'";
+$id_dosen = $_GET['id_dosen'];
+
+$query = "DELETE FROM dosen WHERE id_dosen = $id_dosen";
 
 $result = mysqli_query($connect, $query);
 
@@ -15,8 +15,7 @@ if($num > 0)
 }
 else
 {
-  echo "Gagal hapus data <br>";
+  echo "gagal hapus data <br>";
 }
-
-echo "<a href='read.php'>Lihat data</a>";
+echo "<a href='read.php'>Lihat Data</a>";
  ?>
