@@ -66,3 +66,43 @@ sangat terkesan karena saya banyak mendapatkan kesalhaan dalam pengetikan kode y
 Akhirnya tetap saja error hasilnya, tetapi saya berusaha berusaha. dan ini hasilnya. walau penempatannya jelek tetapi saya berusaha mencari kesalhan sedniri dengan bantuan bantuan yang diberikan oleh teman saya dan Pak Arifin. Terimakasih semuanya.
 
 Didalam gitan ini ada beberapa foto dari screenshootan tugas sbeelumnya yang terlanjur saya tambhkan saat saya ingi melakukan git tersebut.
+
+
+
+
+MODUL7 BAG 5 - 6
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/Pencarian%20nama%20'Rafi'.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/Pencarian%20nama%20'Su'.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/adasks.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/hasilpencarianAda.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/hasilpencarianTidakAda.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/hasilpencariandatadosen.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/hasilsmster.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/insertprodi.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/mahasiswa_baru.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/mahasiswa_baru_insert.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/nyarimtk.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/nyarisemester12.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/nyarisksk9.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/pencarioanDosenAtasNama'Rafi'.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/programstudi.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/relsi.PNG)
+
+![altext](https://github.com/Anandarafi/Modul7Bag.3dan4-AnandaRafiAmanullah-XRPL4-07/blob/master/tidakadamtk.PNG)
+
