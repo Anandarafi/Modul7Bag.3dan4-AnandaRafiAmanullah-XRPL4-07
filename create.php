@@ -1,20 +1,28 @@
 <?php
+
 include '../connect.php';
 
-$nama_dosen = $_POST['nama_dosen'];
-$telp = $_POST['telp'];
+$kode = $_POST['kode'];
+$nama_matkul = $_POST['nama_matkul'];
+$sks = $_POST['sks'];
+$semester = $_POST['semester'];
+$id_dosen = $_POST['id_dosen'];
 
-$query = "INSERT INTO dosen (nama_dosen, telp)
-           VALUES ('$nama_dosen','$telp')";
+$query = "INSERT INTO Matakuliah
+          VALUES ('$kode', '$nama_matkul', '$sks', '$semester', $id_dosen)";
 
-           $result = mysqli_query($connect,$query);
+$result = mysqli_query($connect, $query);
 
-           $num = mysqli_affected_rows($connect);
+$num = mysqli_affected_rows($connect);
 
-  if($num > 0)
-  { echo "Berhasil tambah data"; }
-  else
-  { echo "Gagal tambah data"; }
+if($num > 0)
+{
+  echo "Berhasil tambah data <br>";
+}
+else
+{
+  echo "Gagal Tambah data <br>";
+}
 
-  echo "<a href='read.php'>Lihat Data</a>";
+echo "<a href='read.php'>Lihat data</a>";
  ?>

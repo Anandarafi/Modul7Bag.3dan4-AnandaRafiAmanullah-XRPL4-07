@@ -1,24 +1,29 @@
 <?php
 include '../connect.php';
 
+$kode = $_POST['kode'];
 $id_dosen = $_POST['id_dosen'];
-$nama_dosen = $_POST['nama_dosen'];
-$telp = $_POST['telp'];
+$nama_matkul = $_POST['nama_matkul'];
+$sks = $_POST['sks'];
+$semester = $_POST['semester'];
 
-$query = "UPDATE dosen SET nama_dosen = '$nama_dosen',telp ='$telp' WHERE id_dosen = $id_dosen";
+$query = "UPDATE matakuliah SET nama_matkul = '$nama_matkul',
+          sks = $sks,
+          semester = $semester,
+          id_dosen = $id_dosen
+      WHERE kode = '$kode'";
 
-$result = mysqli_query($connect, $query);
+      $result = mysqli_query($connect,$query);
+      $num = mysqli_affected_rows($connect);
 
-$num = mysqli_affected_rows($connect);
+      if($num > 0)
+      {
+        echo "Berhasil ubah data <br>";
+      }
+      else
+      {
+        echo "Gagal ubah data <br>";
+      }
 
-if($num > 0)
-{
-  echo "Berhasil update data <br>";
-}
-else
-{
-  echo "Gagal update data <br>";
-}
-echo "<a href='read.php'>Lihat Data</a>";
-
+      echo "<a href='read.php'>Lihat data</a>";
  ?>
